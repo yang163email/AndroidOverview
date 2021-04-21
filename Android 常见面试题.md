@@ -61,7 +61,7 @@
 4. 抽象类与接口的特点
 5. 集合
    - ArrayList、CopyOnWriteArrayList、LinkedList原理
-   - HashMap特点，原理，扩容机制，hash算法以及计算桶的位置
+   - HashMap特点，原理，扩容 机制，hash算法以及计算桶的位置
    - ConcurrentHashMap原理，sizeCtl含义
 6. 泛型
    - 泛型理解
